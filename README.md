@@ -13,4 +13,4 @@ Technologies Used
 JavaFX: For building the graphical user interface.
 Java: For the core application logic.
 NetBeans: Integrated Development Environment (IDE) used for development.
-SQLite or File Storage: For persisting flashcard data (assuming SQLite or file storage is used; adjust as needed).
+MySQL: For persisting flashcard and user data.
